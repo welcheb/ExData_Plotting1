@@ -11,8 +11,11 @@ alert("Hello, World!")
 </script>
 </div>
 
-* auto-gen TOC:
-{:toc}
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
 
 ## Introduction
 
