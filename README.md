@@ -1,3 +1,5 @@
+<b>Bold Text</b>
+
 ## Introduction
 
 This assignment uses data from
