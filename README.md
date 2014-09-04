@@ -1,6 +1,11 @@
 <b>Bold Text</b>
 
 <div>
+<ol>
+<li>One
+<li>Two
+<li>Three
+</ol>
 <script>
 alert("Hello, World!")
 </script>
