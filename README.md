@@ -11,7 +11,7 @@ alert("Hello, World!")
 </script>
 </div>
 
-<p id="demo"></p>
+<p id="demo">Overwrite me!</p>
 
 <script>
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
