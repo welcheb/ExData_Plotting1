@@ -1,5 +1,9 @@
 <b>Bold Text</b>
 
+<script>
+	alert('Hello, World!')
+</script>
+
 ## Introduction
 
 This assignment uses data from
