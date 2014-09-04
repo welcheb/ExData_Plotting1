@@ -11,6 +11,8 @@ alert("Hello, World!")
 </script>
 </div>
 
+[TOC]
+
 ## Introduction
 
 This assignment uses data from
