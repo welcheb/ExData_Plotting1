@@ -11,7 +11,8 @@ alert("Hello, World!")
 </script>
 </div>
 
-[TOC]
+* auto-gen TOC:
+{:toc}
 
 ## Introduction
 
