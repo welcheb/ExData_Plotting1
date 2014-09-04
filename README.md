@@ -1,8 +1,10 @@
 <b>Bold Text</b>
 
+<div>
 <script>
 alert("Hello, World!")
 </script>
+</div>
 
 ## Introduction
 
