@@ -1,7 +1,7 @@
 <b>Bold Text</b>
 
 <script>
-	alert('Hello, World!')
+alert("Hello, World!")
 </script>
 
 ## Introduction
